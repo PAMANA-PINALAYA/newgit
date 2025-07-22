@@ -5,3 +5,10 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/PAMANA-PINALAYA/newgit.git
 git push -u origin main
+
+
+when i going to upload the file that has changes
+
+git add . 
+git commit -m "comment here"
+git push
