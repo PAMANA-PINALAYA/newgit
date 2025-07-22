@@ -1,1 +1,2 @@
-aas
+git restore --soft HEAD~1
+git restore --hard HEAD~1
